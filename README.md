@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm RWhiteShadow</h1>
 <h3 align="center">I am a fast learner and creative thinker with a passion for Android app development and data science, proficient in machine learning algorithms ,NLP techniques.</h3>
 
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif](https://dribbble.com/shots/6625629-It-s-Game-Time/attachments/6625629-It-s-Game-Time?mode=media)" />
+<img align="right" alt="Coding" width="400" src="https://github.com/Rohan0715/MasterHead/blob/main/Poster2.gif" />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rwhiteshadow&label=Profile%20views&color=0e75b6&style=flat" alt="rwhiteshadow" /> </p>
 
