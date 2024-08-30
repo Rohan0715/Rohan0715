@@ -48,11 +48,3 @@
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer" style="margin-right: 10px;"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="50"/> </a>
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer" style="margin-right: 10px;"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50"/> </a>
 </p>
-
-<!-- Removed GitHub perks -->
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rwhiteshadow&show_icons=true&locale=en&layout=compact" alt="rwhiteshadow" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rwhiteshadow&show_icons=true&locale=en" alt="rwhiteshadow" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rwhiteshadow&" alt="rwhiteshadow" /></p>
