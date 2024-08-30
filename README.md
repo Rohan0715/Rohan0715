@@ -1,4 +1,5 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4D12AQHzUX-8q0O2Mw/article-cover_image-shrink_720_1280/0/1681825317005)]
+![MasterHead](https://media.licdn.com/dms/image/D4D12AQHzUX-8q0O2Mw/article-cover_image-shrink_720_1280/0/1681825317005)
+
 
 <h1 align="center">Hi 👋, I'm RWhiteShadow</h1>
 <h3 align="center">I am a fast learner and creative thinker with a passion for Android app development and data science, proficient in machine learning algorithms ,NLP technique</h3>
