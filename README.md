@@ -1,4 +1,5 @@
-[![MasterHead](https://media.licdn.com/dms/image/v2/D4D12AQHzUX-8q0O2Mw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1681825317005?e=1730332800&v=beta&t=nzqS0wAnNHEoreB9_1V-_lsOSIhA8O-6F6F29URXsWA](https://Rohan0715.io)
+[![MasterHead](https://media.licdn.com/dms/image/D4D12AQHzUX-8q0O2Mw/article-cover_image-shrink_720_1280/0/1681825317005)](https://Rohan0715.io)
+
 <h1 align="center">Hi 👋, I'm RWhiteShadow</h1>
 <h3 align="center">I am a fast learner and creative thinker with a passion for Android app development and data science, proficient in machine learning algorithms ,NLP technique</h3>
 
