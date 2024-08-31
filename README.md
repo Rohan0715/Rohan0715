@@ -44,10 +44,14 @@
 <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer" style="margin-right: 10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="50" height="50"/> </a>
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer" style="margin-right: 10px;"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"/> </a>
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer" style="margin-right: 10px;"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="50"/> </a>
+<a href="https://numpy.org/" target="_blank" rel="noreferrer" style="margin-right: 10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="50" height="50"/> </a>
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer" style="margin-right: 10px;"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" alt="matplotlib" width="50" height="50"/> </a>
+<a href="https://scipy.org/" target="_blank" rel="noreferrer" style="margin-right: 10px;"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" alt="scipy" width="50" height="50"/> </a>
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer" style="margin-right: 10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="50" height="50"/> </a>
 <a href="https://www.wordpress.org/" target="_blank" rel="noreferrer" style="margin-right: 10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="50" height="50"/> </a>
 <a href="https://www.apache.org/" target="_blank" rel="noreferrer" style="margin-right: 10px;"> <img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" alt="apache" width="50" height="50"/> </a>
 </p>
+
 
 
 <h3 align="left">My Repositories:</h3>
