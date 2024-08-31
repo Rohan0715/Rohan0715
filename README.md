@@ -1,5 +1,5 @@
 <a href="https://github.com/Rohan0715/MasterHead/blob/main/poster1.gif">
-  <img src="https://github.com/Rohan0715/MasterHead/blob/main/poster1.gif" alt="MasterHead" width="800" height="200"/>
+  <img src="https://github.com/Rohan0715/MasterHead/blob/main/poster1.gif" alt="MasterHead" width="400" height="800"/>
 </a>
 
 
