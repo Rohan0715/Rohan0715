@@ -1,5 +1,5 @@
 [![MasterHead](https://github.com/Rohan0715/MasterHead/blob/main/poster1.gif)](https://github.com/Rohan0715/MasterHead/blob/main/poster1.gif)
-<h1 align="center">Hi 👋, I'm RWhiteShadow</h1>
+<h1 align="center">Hello, I'm RWhiteShadow 👋</h1>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/Rohan0715/MasterHead/blob/main/Poster2.gif" />
 
@@ -7,20 +7,20 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Android Development, EDA, ML, NLP, GEN AI**
+- 🌱 **Currently exploring:** Android Development, Exploratory Data Analysis (EDA), Machine Learning (ML), Natural Language Processing (NLP), Generative AI
 
-- 💬 Ask me about **Android Development, EDA, ML, NLP, GEN AI**
+- 💬 **Feel free to ask me about:** Android Development, EDA, ML, NLP, and Generative AI
 
-- 📫 How to reach me **rohanpatel0715@gmail.com**
+- 📫 **Get in touch:** [rohanpatel0715@gmail.com](mailto:rohanpatel0715@gmail.com)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Let's Connect:</h3>
 <p align="left">
 <a href="https://instagram.com/_rohan_it_is" target="blank" style="margin-right: 10px;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_rohan_it_is" height="35" width="45" /></a>
 <a href="https://www.hackerrank.com/rohanpatel" target="blank" style="margin-right: 10px;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rohan patel" height="35" width="45" /></a>
 <a href="https://www.leetcode.com/rohan_07__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rohan_07__" height="35" width="45" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Technologies & Tools:</h3>
 <p align="left">
 <a href="https://developer.android.com" target="_blank" rel="noreferrer" style="margin-right: 10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="margin-right: 10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> </a>
@@ -44,5 +44,25 @@
 <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer" style="margin-right: 10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="50" height="50"/> </a>
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer" style="margin-right: 10px;"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"/> </a>
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer" style="margin-right: 10px;"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="50"/> </a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer" style="margin-right: 10px;"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50"/> </a>
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer" style="margin-right: 10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="50" height="50"/> </a>
+<a href="https://www.wordpress.org/" target="_blank" rel="noreferrer" style="margin-right: 10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="50" height="50"/> </a>
+<a href="https://www.apache.org/" target="_blank" rel="noreferrer" style="margin-right: 10px;"> <img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" alt="apache" width="50" height="50"/> </a>
+</p>
+
+<h3 align="left">GitHub Stats:</h3>
+<p align="left">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=rwhiteshadow&show_icons=true&locale=en" alt="rwhiteshadow" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rwhiteshadow&" alt="rwhiteshadow" />
+</p>
+
+<h3 align="left">My Repositories:</h3>
+<p align="left">
+<a href="https://github.com/Rohan0715/Poster"> <img src="https://img.shields.io/badge/Poster-Repository-blue" alt="Poster Repository"/> </a>
+</p>
+
+<h3 align="left">Programming Languages:</h3>
+<p align="left">
+<a href="https://www.java.com" target="_blank" rel="noreferrer" style="margin-right: 10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer" style="margin-right: 10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a>
+<a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer" style="margin-right: 10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="50" height="50"/> </a>
 </p>
