@@ -1,8 +1,4 @@
-<a href="https://github.com/Rohan0715/MasterHead/blob/main/poster1.gif">
-  <img src="https://github.com/Rohan0715/MasterHead/blob/main/poster1.gif" alt="MasterHead" width="400" height="400"/>
-</a>
-
-
+[![MasterHead](https://github.com/Rohan0715/MasterHead/blob/main/poster1.gif)](https://github.com/Rohan0715/MasterHead/blob/main/poster1.gif)
 <h1 align="center">Hi 👋, I'm RWhiteShadow</h1>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/Rohan0715/MasterHead/blob/main/Poster2.gif" />
