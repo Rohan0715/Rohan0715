@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 **Currently exploring:** Android Development, Exploratory Data Analysis (EDA), Machine Learning (ML), Natural Language Processing (NLP), Generative AI
+- 🌱 **Diving deep into:** Android App Development, Data Exploration (EDA), Machine Learning (ML), Natural Language Processing (NLP), and Generative AI.
 
-- 💬 **Feel free to ask me about:** Android Development, EDA, ML, NLP, and Generative AI
+- 💬 **Let’s talk about:** Building Android apps, unlocking insights with EDA, the magic behind ML, cracking language with NLP, and shaping the future with Generative AI.
 
-- 📫 **Get in touch:** [rohanpatel0715@gmail.com](mailto:rohanpatel0715@gmail.com)
+- 📫 **Reach out to me at:** [rohanpatel0715@gmail.com](mailto:rohanpatel0715@gmail.com) – Always up for a chat or collaboration!
 
 <h3 align="left">Let's Connect:</h3>
 <p align="left">
@@ -54,7 +54,23 @@
 
 
 
-<h3 align="left">My Repositories:</h3>
-<p align="left">
-<a href="https://github.com/Rohan0715/Poster"> <img src="https://img.shields.io/badge/Poster-Repository-blue" alt="Poster Repository"/> </a>
-</p>
+<h3 align="left">🌟 My Repositories:</h3>
+<ul>
+  <li>
+    🎧 <a href="https://github.com/Rohan0715/AutoSpotify" target="_blank">
+      <strong>AutoSpotify</strong>
+    </a> - Automating Spotify playlists and music recommendations.
+  </li>
+  <li>
+    🎥 <a href="https://github.com/Rohan0715/Movie-Recommender-System" target="_blank">
+      <strong>Movie Recommender System</strong>
+    </a> - A personalized movie recommendation system using machine learning.
+  </li>
+  <li>
+    🖼️ <a href="https://github.com/Rohan0715/ImageClassifiaction" target="_blank">
+      <strong>Image Classification</strong>
+    </a> - A CNN-based project for classifying images into different categories.
+  </li>
+</ul>
+
+
