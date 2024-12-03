@@ -71,6 +71,11 @@
       <strong>Image Classification</strong>
     </a> - A CNN-based project for classifying images into different categories.
   </li>
+  <li>
+    🔉 <a href="https://github.com/Rohan0715/Video-Audio-Replacement-with-AI-generated-Voice" target="_blank">
+      <strong>Video-Audio-Replacement-with-AI-generated-Voice </strong>
+    </a> - The project focuses on replacing video audio with AI-generated voices. It leverages artificial intelligence to create synthetic speech.
+  </li>
 </ul>
 
 
